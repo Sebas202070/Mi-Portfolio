@@ -1,0 +1,41 @@
+[
+{
+    "name" : "Blog-App",
+    "img": "images/images1.jpg",
+    "description": "Blogg-App es una aplicacion hecha con React usando Vite, Js y Css que permite seleccionar elementos por categorias ",
+    "link":"https://filter-blog.netlify.app/"
+},
+{
+    "name" : "Covertidor-de-Monedas-App",
+    "img": "images/imagescon.jpg",
+    "description": "Covertidor-de-Monedas-App es una aplicacion hecha con React usando Vite, Js y Css que permite convertir divisas de todo el mundo en tiempo real ",
+    "link":"https://convertidor-de-monedas-app.netlify.app"
+},
+{
+    "name" : "Generador-de-QR-App",
+    "img": "images/QR.png",
+    "description": "Generador-de-QR-App es una aplicacion hecha con React usando Vite, Js y MUI  que permite generar y descargar un codigo QR customizado.",
+    "link":"generador-de-qr-ok.netlify.app"
+},
+{
+    "name" : "Henry Dogs App",
+    "img": "images/Coraje.jpg",
+    "description": "Henry Dogs es una aplicación web donde se muestra diversos tipos de mascotas las cuales puedes agregar a favoritos como usuario y también tienes la posibilidad de crear tus propias mascotas con sus respectivas edades, razas, y temperamentos.",
+    "link":""
+    
+   },
+
+{
+    "name" : "Pokemon-App",
+    "img": "images/Pokemon.jpg",
+    "description": "Pokemon-App es una aplicacion hecha con React usando Vite, JS y CSS puro, permite buscar, fultrar y obtener cada pokemon por ID",
+    "link":"https://pokemon-app-ok.netlify.app/"
+},
+{
+    "name" : "SportPlanet",
+    "img": "images/SP.jpg",
+    "description": "Sport Planet es una aplicación web Market Place dedicada a la compra y venta online de artículos deportivos.Tiene un diseño totalmente adaptable a cualquier dispositivo para una fácil navegación y una buena experiencia de usuario.",
+    "link":"https://sport-planet-89a90n3la-jatencia.vercel.app/"
+}
+
+]

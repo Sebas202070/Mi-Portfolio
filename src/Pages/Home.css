@@ -11,3 +11,44 @@ background-size: ;
 }
  */
 /* py-6 px-10 flex items-center fixed top-0 w-full justify-between z-40 */
+
+.efecto {
+    display: block;
+    white-space: nowrap;
+    border-right: 4px;
+    width: 14ch;
+    animation: typing 2s steps(14),
+    blink .2s infinite step-end alternate ;
+    overflow: hidden;
+}
+
+@keyframes typing {
+    from {width: 0}
+    
+}
+
+@keyframes blink {
+   50% {border: transparent;}
+}
+
+
+@media (max-width: 500px) {
+    .efecto {
+        display: block;
+   
+       
+        width: 14ch;
+        animation: typing 4s steps(14),
+        blink .2s  step-end alternate ;
+        overflow: hidden;
+    }
+    .div1{
+   /*      display: block;
+     justify-content: center; */
+   
+    font-size: xx-small;
+
+    
+
+    }
+}
