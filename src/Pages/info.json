@@ -15,7 +15,7 @@
     "name" : "Generador-de-QR-App",
     "img": "images/QR.png",
     "description": "Generador-de-QR-App es una aplicacion hecha con React usando Vite, Js y MUI  que permite generar y descargar un codigo QR customizado.",
-    "link":"generador-de-qr-ok.netlify.app"
+    "link":"https://generador-de-qr-ok.netlify.app"
 },
 {
     "name" : "Henry Dogs App",

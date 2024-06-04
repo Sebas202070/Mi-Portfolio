@@ -10,8 +10,8 @@ function CardTw(props) {
       />
       <div className="px-6 py-4">
         <div className="font-bold text-xl mb-2">{props.name}</div>
-        <p className="text-gray-700 text-base ">{props.description}</p>
-        <Link className="text-blue-700 mt-2 " to={props.link}>
+        <p className="text-gray-400 text-base ">{props.description}</p>
+        <Link className="text-blue-500 underline mt-2 " to={props.link}>
           {props.link}
         </Link>
       </div>

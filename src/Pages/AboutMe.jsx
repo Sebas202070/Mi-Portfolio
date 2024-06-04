@@ -24,12 +24,12 @@ function AboutMe() {
       </div>
       <div className="p-5 m-2">
         <Link to="https://www.gmail.com/mail/help/intl/es/about.html?iframe">
-          <h1 className="underline text-blue-700">
+          <h1 className="underline text-blue-500">
             📩Mail: sebastianrnajleok@gmail.com
           </h1>
         </Link>
         <Link to="https://www.linkedin.com/in/sebastian-rodrigo-najle-7bba34125/?locale=en_US">
-          <h1 className="underline text-blue-700">💻Github: Sebas202070</h1>
+          <h1 className="underline text-blue-500">💻Github: Sebas202070</h1>
         </Link>
       </div>
     </div>

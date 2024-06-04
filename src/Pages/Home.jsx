@@ -5,8 +5,8 @@ import "./Home.css";
 function Home() {
   return (
     <div>
-      <div className="flex justify-center items-center -m-8 portrait:div1 content-center">
-        <div className="m-20  portrait:div1  ">
+      <div className="flex justify-center items-center -m-8 portrait:-m-20 ">
+        <div className="m-20  portrait:div1 ml-24  ">
           <div className="">
             <p className="text-7xl flex gap-2 ml-2 absolute efecto portrait:text-5xl ">
               Hi! I'm{" "}
