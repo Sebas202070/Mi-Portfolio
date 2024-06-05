@@ -4,7 +4,7 @@ function CardTw(props) {
   return (
     <div className="max-w-sm rounded overflow-hidden shadow-lg ">
       <img
-        className="w-80 h-80 portrait:h-40 ml-5 hover:animate-bounce "
+        className="w-80 h-80 portrait:max-w-full max-h-full ml-5 hover:animate-bounce  "
         src={props.img}
         alt="Sunset in the mountains"
       />
