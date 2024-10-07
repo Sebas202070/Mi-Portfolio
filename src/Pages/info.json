@@ -1,9 +1,15 @@
 [
-{
+   {
     "name" : "Blog-App",
     "img": "images/images1.jpg",
     "description": "Blogg-App es una aplicacion hecha con React usando Vite, Js y Css que permite seleccionar elementos por categorias ",
     "link":"https://filter-blog.netlify.app/"
+},
+{
+    "name" : "LaSantaPetShop",
+    "img": "images/Screenshot (145).png",
+    "description": "LaSantaPetShop es una aplicacion hecha integramente con NextJs. utilizando varias tecnologias como Prisma, Docker, Cloudinary, Zod entre otras.",
+    "link":"https://lasantapetshop.vercel.app"
 },
 {
     "name" : "Covertidor-de-Monedas-App",
@@ -36,6 +42,16 @@
     "img": "images/SP.jpg",
     "description": "Sport Planet es una aplicación web Market Place dedicada a la compra y venta online de artículos deportivos.Tiene un diseño totalmente adaptable a cualquier dispositivo para una fácil navegación y una buena experiencia de usuario.",
     "link":"https://sport-planet-89a90n3la-jatencia.vercel.app/"
+},
+{
+    "name" : "SportPlanet",
+    "img": "images/SP.jpg",
+    "description": "Sport Planet es una aplicación web Market Place dedicada a la compra y venta online de artículos deportivos.Tiene un diseño totalmente adaptable a cualquier dispositivo para una fácil navegación y una buena experiencia de usuario.",
+    "link":"https://sport-planet-89a90n3la-jatencia.vercel.app/"
 }
+
+
+
+
 
 ]
