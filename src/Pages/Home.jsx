@@ -1,11 +1,14 @@
-import { Link } from "react-router-dom";
 import cpuimg from "../Pages/assets/imagescpu.jpg";
 import "./Home.css";
+import CardTw from "./CardTw";
+import json from "../Pages/info.json";
 
 function Home() {
+  const info = json;
+
   return (
     <div>
-      <div className="flex justify-center items-center -m-8 portrait:-m-20 ">
+      <div className="flex justify-center items-center -m-8 mr-20 portrait:-m-20 ">
         <div className="m-20    ">
           <div className="">
             <p className="text-7xl flex gap-2 ml-2 absolute efecto portrait:text-5xl ">
@@ -31,12 +34,26 @@ function Home() {
       <div className=" flex justify-center text-5xl ">
         {/*   <h1>Projects</h1> */}
       </div>
-      <div className=" flex justify-center -m-8">
-        <Link to="/Projects">
-          <button className="bg-cyan-700 rounded-lg ml-8 p-2 hover:bg-cyan-900 ">
-            ENTER
-          </button>
-        </Link>
+      <div className=" flex justify-center -m-8"></div>
+      <div className="-mt-7  ">
+        <div className="mr-20">
+          <h1 className="text-center text-5xl m-20  font-semibold  ">
+            MY PROJECTS
+          </h1>
+        </div>
+        <div className="flex gap-4 justify-around flex-wrap border-blue-700 border-solid">
+          {info?.map((e) => {
+            return (
+              <CardTw
+                key={crypto.randomUUID()}
+                img={e.img}
+                name={e.name}
+                description={e.description}
+                link={e.link}
+              />
+            );
+          })}
+        </div>
       </div>
     </div>
   );
