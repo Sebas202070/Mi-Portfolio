@@ -1,7 +1,7 @@
 [
     {
         "name": "LaSantaPetShop",
-        "img": "images/Screenshot1.png",
+        "img": "images/Screenshot3.png",
         "description": "LaSantaPetShop es una aplicacion hecha integramente con NextJs. utilizando varias tecnologias como Prisma, Docker, Cloudinary, Zod entre otras.",
         "link": "https://lasantapetshop.vercel.app"
     },
@@ -13,7 +13,7 @@
     },
     {
         "name": "Iron Fit",
-        "img": "images/Screenshot3.png",
+        "img": "images/Screenshot1.png",
         "description": "Iron Fit, una app sencilla pero súper funcional que genera rutinas de entrenamiento y un plan alimentario personalizado con solo completar tu peso, estatura y objetivos ✅ Ideal para quienes quieren organizar su salud sin complicarse 📱 Rápida, intuitiva y basada en buenas prácticas fitness + nutrición 🧠 Con toques de IA para adaptar las recomendaciones a cada persona 🛠️ Tecnologías: Next.js + MongoDB + IA 🚀 Próximos pasos: seguimiento de progreso y alertas inteligentes.","link": "https://iron-f-it.vercel.app/"
     },
     
