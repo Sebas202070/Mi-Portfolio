@@ -28,7 +28,7 @@
       {
         "name": "Whatsapp Bot app",
         "img": "images/Screenshot (165).png",
-        "description": "una aplicación fullstack con Next.js que funciona como un bot inteligente para WhatsApp, diseñada para automatizar tareas clave y mejorar la comunicación con usuarios de forma eficiente.🔧 Características principales:📅 Notificaciones automáticas de vencimientos y recordatorios personalizados vía WhatsApp.🧠 Integración con OpenAI para generar mensajes adaptados según el contexto y el tipo de cliente.📊 Soporte para hojas de cálculo (Excel / Google Sheets) como base de datos editable, lo que permite una gestión simple y accesible para usuarios no técnicos.","link": "https://iron-f-it.vercel.app/"
+        "description": "una aplicación fullstack con Next.js que funciona como un bot inteligente para WhatsApp, diseñada para automatizar tareas clave y mejorar la comunicación con usuarios de forma eficiente.🔧 Características principales:📅 Notificaciones automáticas de vencimientos y recordatorios personalizados vía WhatsApp.🧠 Integración con OpenAI para generar mensajes adaptados según el contexto y el tipo de cliente.📊 Soporte para hojas de cálculo (Excel / Google Sheets) como base de datos editable, lo que permite una gestión simple y accesible para usuarios no técnicos.","link": "https://whatsapp-bot-frontend-alpha.vercel.app/"
     },
     {
         "name": "ServiPro",
