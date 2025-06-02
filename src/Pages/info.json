@@ -12,9 +12,28 @@
         "link": "https://pizza-jai.vercel.app/"
     },
     {
+        "name": "Junior Jobs",
+        "img": "images/77.png",
+        "description": "Juniors Jobs, una plataforma pensada especialmente para quienes están dando sus primeros pasos en el mundo laboral.¿Cómo funciona? Solo necesitas conectarte con tus plataformas de empleo favoritas, ¡y Junior Jobs se encargará de mostrarte todas las vacantes disponibles para perfiles junior!Desarrollada con Next.js y potenciada con inteligencia artificial (Gemini de Google)","link": "https://juniors-jobs.vercel.app/"
+    },
+   
+    
+  
+     {
         "name": "Iron Fit",
         "img": "images/Screenshot1.png",
         "description": "Iron Fit, una app sencilla pero súper funcional que genera rutinas de entrenamiento y un plan alimentario personalizado con solo completar tu peso, estatura y objetivos ✅ Ideal para quienes quieren organizar su salud sin complicarse 📱 Rápida, intuitiva y basada en buenas prácticas fitness + nutrición 🧠 Con toques de IA para adaptar las recomendaciones a cada persona 🛠️ Tecnologías: Next.js + MongoDB + IA 🚀 Próximos pasos: seguimiento de progreso y alertas inteligentes.","link": "https://iron-f-it.vercel.app/"
+   
+    },
+      {
+        "name": "Whatsapp Bot app",
+        "img": "images/Screenshot (165).png",
+        "description": "una aplicación fullstack con Next.js que funciona como un bot inteligente para WhatsApp, diseñada para automatizar tareas clave y mejorar la comunicación con usuarios de forma eficiente.🔧 Características principales:📅 Notificaciones automáticas de vencimientos y recordatorios personalizados vía WhatsApp.🧠 Integración con OpenAI para generar mensajes adaptados según el contexto y el tipo de cliente.📊 Soporte para hojas de cálculo (Excel / Google Sheets) como base de datos editable, lo que permite una gestión simple y accesible para usuarios no técnicos.","link": "https://iron-f-it.vercel.app/"
+    },
+    {
+        "name": "ServiPro",
+        "img": "images/Screenshot77.png",
+        "description": "Desarrollé ServiPro, una aplicación web creada con Next.js, pensada para optimizar la gestión de servicios a domicilio y la coordinación con clientes en tiempo real.🛠️ Funcionalidades principales:📍 Geolocalización en tiempo real para ubicar técnicos o clientes y mejorar la asignación de servicios.📋 Gestión completa de servicios, técnicos y clientes, con historial, estado y detalles de cada trabajo.📅 Alertas automáticas vía WhatsApp para recordatorios de visitas, vencimientos o seguimiento post-servicio.🧠 Personalización de mensajes mediante integración con OpenAI, adaptando el lenguaje al tipo de cliente.📈 Soporte para planillas (Excel / Google Sheets) como fuente de datos editable y fácil de mantener.🖥️ Panel administrativo claro y sencillo, ideal para equipos no técnicos.Con ServiPro, los usuarios pueden coordinar equipos de trabajo, mejorar la experiencia del cliente y automatizar tareas repetitivas desde una plataforma moderna y 100% online.","link": "https://servi-pro.vercel.app/"
     },
     
     {
