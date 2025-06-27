@@ -5,7 +5,17 @@
 
 
 body {
-  background-image:url(https://pa1.aminoapps.com/6548/a1078e78ae08e1d64e067e2d2950ed6103ac02e8_00.gif);
+  background: linear-gradient(-45deg, #0a1d45, #0f2d61, #0a1d45, #0f2d61);
+  background-size: 400% 400%;
+  animation: gradientBG 10s ease infinite;
   color: white;
-background-size: cover;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+@keyframes gradientBG {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
 }
